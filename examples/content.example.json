@@ -1,0 +1,36 @@
+{
+  "name": "JANE DOE",
+  "contact": "City, ST | (555) 555-0100 | jane.doe@example.com | LinkedIn",
+  "font_size": 10,
+  "summary": "Data Scientist with 5+ years of experience building and deploying fraud and risk models. Tailor these 2-3 lines to the job description using only facts from the base resume.",
+  "skills": "Python, SQL, Machine Learning, Anomaly Detection, NLP, A/B Testing, MLOps, Docker, Azure",
+  "experience": [
+    {
+      "title": "Data Scientist, Example Corp",
+      "dates": "01/2023 - Current",
+      "bullets": [
+        "Developed an anomaly detection model achieving an AUC of 0.90 and reducing fraud exposure by 20%.",
+        "Deployed the model as a REST API on Kubernetes with CI/CD pipelines for real-time scoring."
+      ]
+    },
+    {
+      "title": "Data Analyst, Sample Inc",
+      "dates": "06/2019 - 12/2022",
+      "bullets": [
+        "Reduced data processing time by 30% using optimized SQL (CTEs, window functions)."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "EXAMPLE UNIVERSITY",
+      "location": "City, ST",
+      "degree": "Master of Science in Data Science",
+      "dates": "08/2021 - 05/2023"
+    }
+  ],
+  "additional": [
+    "Tech Stack: Python, R, SQL, PySpark, Docker, Kubernetes, Tableau",
+    "Frameworks: Pandas, NumPy, Scikit-learn, PyTorch, Transformers, FastAPI"
+  ]
+}

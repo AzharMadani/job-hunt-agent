@@ -1,0 +1,13 @@
+# Personal data: keep local, never publish
+profile/*
+!profile/.gitkeep
+resumes/
+emails/
+work/
+*.csv
+
+# Office lock files and OS junk
+~$*
+.DS_Store
+.venv/
+__pycache__/
